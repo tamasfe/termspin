@@ -1,6 +1,4 @@
 //! A library for terminal multi-line spinners based purely on ANSI escape sequences.
-//! 
-//! # Example
 #![warn(clippy::pedantic, missing_docs)]
 
 use std::{
