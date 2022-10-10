@@ -7,6 +7,7 @@ categories = ["command-line-interface"]
 keywords = ["spinner", "ansi"]
 license = "MIT"
 description = "A terminal spinner library."
+repository = "https://github.com/tamasfe/termspin"
 
 [dependencies]
 downcast = "0.11.0"
