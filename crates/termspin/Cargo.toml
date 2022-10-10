@@ -1,0 +1,12 @@
+[package]
+name = "termspin"
+version = "0.1.0"
+edition = "2021"
+authors = ["tamasfe"]
+categories = ["command-line-interface"]
+keywords = ["spinner", "ansi"]
+license = "MIT"
+description = "A terminal spinner library."
+
+[dependencies]
+downcast = "0.11.0"
